@@ -2,7 +2,7 @@
 
 ## P1 - Dry Bean Classification
 
-The aim of this practical is to gain experience in applying machine learning methodology to a real dataset. The focus is on good understanding and justification of steps involving data processing, training and evaluation.
+The aim of this practical is to gain experience in applying machine learning methodology to a real dataset. The focus is on good understanding and justification of steps involving data processing, training and evaluation. The data provided contains various measurements taken from 13,611 instances of 7 different types of dry beans.
 
 ## P2 - Classification of seal images
 
